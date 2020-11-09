@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:orientation="vertical" >
+
+        <RatingBar
+            android:layout_toEndOf="@+id/txtRating"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:layout_below="@+id/imgProfile"
+            android:id="@+id/ratingBar"
+            android:layout_gravity="center"
+            android:layout_marginLeft="@dimen/_5sdp"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <androidx.cardview.widget.CardView
+            android:layout_margin="@dimen/_10sdp"
+            android:layout_width="match_parent"
+            app:cardCornerRadius="@dimen/_5sdp"
+            app:cardElevation="@dimen/_5sdp"
+            app:contentPadding="@dimen/_10sdp"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_11sdp"
+                    android:text="@string/how_was_your_experience"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                </TextView>
+                <EditText
+                    android:padding="@dimen/_5sdp"
+                    android:layout_gravity="top"
+                    android:gravity="top"
+                    android:id="@+id/edtMessageRating"
+                    android:background="@drawable/background_border"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    android:layout_width="match_parent"
+                    android:minLines="10"
+                    android:layout_height="wrap_content">
+                </EditText>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        <Button
+            android:id="@+id/btnSubmit"
+            android:text="@string/submit"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_11sdp"
+            android:layout_margin="@dimen/_10sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+</LinearLayout>

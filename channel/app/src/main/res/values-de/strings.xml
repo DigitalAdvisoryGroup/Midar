@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Midar</string>
+    <string name="login">Login</string>
+    <string name="email">Bitte gib deine E-Mail-Adresse ein</string>
+    <string name="like">Like</string>
+    <string name="comment">Kommentare</string>
+    <string name="share">Share</string>
+    <string name="search">Suche</string>
+    <string name="are_you_sure">Are you sure you want to delete this post?</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="agree">I agree to the terms and conditions</string>
+    <string name="resend">Neu senden</string>
+    <string name="verify">Prüfung</string>
+    <string name="Disconnect">Verbindung trennen</string>
+    <string name="profile">Profil</string>
+    <string name="no_post">No post for you</string>
+    <string name="post">Beitrag</string>
+    <string name="verify_otp">Prüfung Einmal-Passwort</string>
+    <string name="leave_your_thoughts_here">Was hältst du davon?</string>
+    <string name="done">Done</string>
+    <string name="how_was_your_experience">Bemerkungen zu deiner Bewertung</string>
+    <string name="comments">Kommentare</string>
+    <string name="campaign">Kampagne</string>
+    <string name="posts">Beiträge</string>
+    <string name="responsible">Verantwortlich</string>
+    <string name="average_rating">Durchschnittliche \n Bewertung</string>
+    <string name="my_rating">Meine Bewertung</string>
+    <string name="submit">Senden</string>
+    <string name="bit_newsfeed">BIT Newsfeed</string>
+    <string name="email_with">Dein Passwort wurde dir per Email zugeschickt</string>
+    <string name="date">Published by BIT 2020-09-12 09:12:34</string>
+    <string name="die">Die Transformationsinitiative \n des BIT</string>
+    <string name="message1">Rajkot is the fourth-largest city in the state of Gujarat</string>
+    <string name="message2">Ahmedabad is the largest city and former capital of the Indian state of Gujarat</string>
+    <string name="message3">Vadodara , is the third largest city in the Indian state of Gujarat</string>
+    <string name="txtCredits2">Ich bestätige die</string>
+    <string name="txtCredits"><a href="https://www.midar.swiss/app-netiquette">Nutzungsbedingungen und Datenschutzbestimmungen.</a></string>
+    <string name="message">POst Message 3 Post 3 For Testing,POst Message 3 Post 3 For Testing,POst Message 3 Post 3 For Testing</string>
+    <string name="english">Englisch</string>
+    <string name="german">Deutsche</string>
+    <string name="upload_file">Datei hochladen</string>
+    <string name="Camera">Kamera</string>
+    <string name="Gallery">Galerie</string>
+    <string name="Document">Dokument</string>
+    <string name="mailings">Mailings</string>
+    <string name="ratings">Ratings</string>
+    <string name="Dislikes">Dislikes</string>
+    <string name="Sharings">Sharings</string>
+    <string name="french">French</string>
+    <string name="italian">Italian</string>
+    <string name="imprint">Imprint</string>
+    <string name="internet_error">Bitte überprüfe deine Internetverbindung</string>
+    <string name="publish_by">Herausgegeben von</string>
+    <string name="online_help">Online-Hilfe</string>
+    <string name="legal">Rechtliches</string>
+    <string name="developed_by">Umsetzung</string>
+    <string name="source_code">Quellcode</string>
+    <string name="license">Diese App ist unter den Bedingungen von MPL 2 lizenziert</string>
+    <string name="data_protaction"><a href="https://www.midar.swiss/app-netiquette">Datenschutzerklärung &amp; Nutzungsbedingungen</a></string>
+    <string name="impressus_link1"><a href="https://www.midar.swiss/help">www.midar.swiss/help</a></string>
+    <string name="impressus_link3"><a href="www.digitaladvisorygroup.io">www.digitaladvisorygroup.io</a></string>
+    <string name="impressus_link4"><a href="www.github.com/digitaladvisorygroup/midar">www.github.com/digitaladvisorygroup/midar</a></string>
+    <string name="impressus_description">Bundesamt fur informatik und \n Telekommunikation BIT Office federal de \n I\'informatique et de la telecommunication \n OFIT Ufficio federablr dell\'informatica e della \n telecomunicazione UFIT Federal Office of \n Information Technology, Systems and \n Telecommunication FOITT</string>
+
+    <string name="published_by">Veröffentlicht durch</string>
+    <string name="min_ago">vor 1 Min</string>
+    <string name="hour_ago">vor 1 Stunden</string>
+    <string name="day_ago">vor 1 Tagen</string>
+    <string name="Please_Enter_Email">Bitte gib deine E-Mail-Adresse ein</string>
+    <string name="Please_Enter_Valid_Email">Unbekannte E-Mail-Adresse</string>
+
+    <string name="days_ago">Vor Tagen</string>
+    <string name="minutes_ago">Vor ein paar Minuten</string>
+    <string name="hours_ago">Vor Stunden</string>
+    <string name="moments_ago">Sekunden zuvor</string>
+    <string name="ok">Ok</string>
+    <string name="Replies_to">Antworten auf</string>
+    <string name="comment_on_this_post">Kommentar zu diesem Beitrag</string>
+</resources>

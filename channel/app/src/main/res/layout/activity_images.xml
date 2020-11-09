@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    tools:ignore="MissingDefaultResource">
+
+    <RelativeLayout
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/rlToolbar"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_45sdp">
+            <ImageView
+                android:id="@+id/imgClose"
+                android:src="@drawable/ic_close"
+                app:tint="@color/colorPrimary"
+                android:layout_marginLeft="@dimen/_10sdp"
+                android:layout_centerVertical="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            </ImageView>
+
+        </RelativeLayout>
+
+        <androidx.viewpager.widget.ViewPager
+            android:id="@+id/pager"
+            android:layout_above="@+id/llCount"
+            android:layout_below="@+id/rlToolbar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        </androidx.viewpager.widget.ViewPager>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:id="@+id/llCount"
+            android:gravity="center"
+            android:layout_alignParentBottom="true"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_50sdp">
+            <ImageView
+                android:id="@+id/imgPrevious"
+                android:layout_marginRight="@dimen/_10sdp"
+                android:src="@drawable/ic_previous"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            </ImageView>
+            <TextView
+                android:id="@+id/txtPosition"
+                android:textColor="@color/black"
+                android:text="2"
+                android:textSize="@dimen/_12sdp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:id="@+id/txtCount"
+                android:textColor="@color/black"
+                android:text="/5"
+                android:textSize="@dimen/_12sdp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <ImageView
+                android:id="@+id/imgNext"
+                android:src="@drawable/ic_next"
+                android:layout_marginLeft="@dimen/_10sdp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            </ImageView>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

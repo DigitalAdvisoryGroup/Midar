@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Midar</string>
+    <string name="login">Connexion</string>
+    <string name="email">Merci d\'indiquer ton adresse électronique</string>
+    <string name="like">Like</string>
+    <string name="comment">Commentaires</string>
+    <string name="share">Share</string>
+    <string name="search">Suche</string>
+    <string name="are_you_sure">Are you sure you want to delete this post?</string>
+    <string name="cancel">Annuler</string>
+    <string name="agree">I agree to the terms and conditions</string>
+    <string name="resend">Envoyer à nouveau</string>
+    <string name="verify">Vérification</string>
+    <string name="Disconnect">Se déconnecter</string>
+    <string name="profile">Profil</string>
+    <string name="no_post">No post for you</string>
+    <string name="post">Contribution</string>
+    <string name="verify_otp">Vérification du mot de passe à utilisation unique</string>
+    <string name="leave_your_thoughts_here">Qu\'en penses-tu?</string>
+    <string name="done">Done</string>
+    <string name="how_was_your_experience">Remarques concernant ton évaluation</string>
+    <string name="comments">Commentaires</string>
+    <string name="campaign">Campagne</string>
+    <string name="posts">Postes</string>
+    <string name="responsible">Responsable</string>
+    <string name="average_rating">Évaluation \n moyenne</string>
+    <string name="my_rating">Mon évaluation</string>
+    <string name="submit">Envoyer</string>
+    <string name="bit_newsfeed">BIT Newsfeed</string>
+    <string name="email_with">Un e-mail avec ton mot de passe a été envoyé dans ta boîte aux lettres</string>
+    <string name="date">Published by BIT 2020-09-12 09:12:34</string>
+    <string name="die">L\'initiative de transformation \n de l\'OFIT</string>
+    <string name="message1">Rajkot is the fourth-largest city in the state of Gujarat</string>
+    <string name="message2">Ahmedabad is the largest city and former capital of the Indian state of Gujarat</string>
+    <string name="message3">Vadodara , is the third largest city in the Indian state of Gujarat</string>
+    <string name="txtCredits2">Je confirme d’accepter</string>
+    <string name="txtCredits"><a href="https://www.midar.swiss/app-netiquette">Conditions d\'utilisation et politique de confidentialité</a></string>
+    <string name="message">POst Message 3 Post 3 For Testing,POst Message 3 Post 3 For Testing,POst Message 3 Post 3 For Testing</string>
+    <string name="english">Englisch</string>
+    <string name="german">Deutsche</string>
+    <string name="upload_file">Datei hochladen</string>
+    <string name="Camera">Kamera</string>
+    <string name="Gallery">Galerie</string>
+    <string name="Document">Dokument</string>
+    <string name="mailings">Mailings</string>
+    <string name="ratings">Évaluations</string>
+    <string name="Dislikes">Dislikes</string>
+    <string name="Sharings">Partager</string>
+    <string name="french">French</string>
+    <string name="italian">Italian</string>
+    <string name="imprint">Imprint</string>
+    <string name="internet_error">S\'il vous plait, vérifiez votre connexion internet</string>
+    <string name="publish_by">Publié par</string>
+    <string name="online_help">Aide en ligne</string>
+    <string name="legal">Légal</string>
+    <string name="developed_by">Développé par</string>
+    <string name="source_code">Code source</string>
+    <string name="license">Cette application est autorisée sous réserve de la condition de la licence MPL 2</string>
+    <string name="data_protaction"><a href="https://www.midar.swiss/app-netiquette">Déclaration de protection des données et conditions d\'utilisation</a></string>
+    <string name="impressus_link1"><a href="https://www.midar.swiss/fr_CH/help">www.midar.swiss/help</a></string>
+    <string name="impressus_link3"><a href="www.digitaladvisorygroup.io">www.digitaladvisorygroup.io</a></string>
+    <string name="impressus_link4"><a href="www.github.com/digitaladvisorygroup/midar">www.github.com/digitaladvisorygroup/midar</a></string>
+    <string name="impressus_description">Bundesamt fur informatik und Telekommunikation BIT Office federal de I\'informatique et de la telecommunication OFIT Ufficio federablr dell\'informatica e della telecomunicazione UFIT Federal Office of Information Technology, Systems and Telecommunication FOITT</string>
+
+    <string name="published_by">Publié par</string>
+    <string name="min_ago">Il y a 1 min</string>
+    <string name="hour_ago">Il ya 1 heures</string>
+    <string name="day_ago">il y a 1 jours</string>
+    <string name="Please_Enter_Email">Merci d\'indiquer ton adresse électronique</string>
+    <string name="Please_Enter_Valid_Email">Adresse électronique inconnue</string>
+
+    <string name="days_ago">il y a quelques jourso</string>
+    <string name="minutes_ago">il y a quelques minutes</string>
+    <string name="hours_ago">il y a des heures</string>
+    <string name="moments_ago">il y a quelques instants</string>
+    <string name="ok">Ok</string>
+    <string name="Replies_to">Réponses à</string>
+    <string name="comment_on_this_post">commenter ce post</string>
+</resources>

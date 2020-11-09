@@ -1,0 +1,125 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="@dimen/_25sdp"
+            android:layout_height="@dimen/_25sdp"
+            android:layout_margin="@dimen/_10sdp"
+            android:src="@drawable/red_logo" />
+        <ImageView
+            android:id="@+id/imgInfo"
+            android:layout_width="@dimen/_25sdp"
+            android:layout_height="@dimen/_25sdp"
+            android:layout_margin="@dimen/_10sdp"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/ic_info_black" />
+        <ScrollView
+            android:layout_below="@+id/imgInfo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+                <ImageView
+                    android:id="@+id/imgLogo"
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="@dimen/_90sdp"
+                    android:layout_height="@dimen/_100sdp"
+                    android:src="@drawable/splash_image" />
+                <TextView
+                    android:id="@+id/txtDie"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:textStyle="bold"
+                    android:textSize="@dimen/_14sdp"
+                    android:layout_below="@+id/imgLogo"
+                    android:paddingTop="@dimen/_5sdp"
+                    android:textColor="@color/colorBlack"
+                    android:text="@string/die"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+                    <androidx.appcompat.widget.AppCompatEditText
+                        android:id="@+id/edtEmail"
+                        android:hint="@string/email"
+                        android:layout_below="@+id/txtDie"
+                        android:imeOptions="actionNext"
+                        android:inputType="textEmailAddress"
+                        android:textSize="@dimen/_10sdp"
+                        android:textCursorDrawable="@drawable/color_cursor"
+                        android:paddingBottom="@dimen/_5sdp"
+                        android:layout_marginRight="@dimen/_20sdp"
+                        android:layout_marginLeft="@dimen/_20sdp"
+                        android:backgroundTint="@color/colorBlack"
+                        android:drawablePadding="@dimen/_10sdp"
+                        android:drawableStart="@drawable/ic_email"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/_50sdp"
+                        />
+                <LinearLayout
+                    android:id="@+id/llTerms"
+                    android:layout_below="@+id/edtEmail"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:layout_marginEnd="@dimen/_20sdp"
+                    android:layout_marginStart="@dimen/_20sdp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <CheckBox
+                        android:id="@+id/chkTerms"
+                        android:buttonTint="@color/colorPrimary"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+                    </CheckBox>
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+                        <TextView
+                            android:id="@+id/txtTerms1"
+                            android:layout_gravity="center"
+                            android:paddingTop="@dimen/_5sdp"
+                            android:textColor="@color/black"
+                            android:text="@string/txtCredits2"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"/>
+                        <TextView
+                            android:id="@+id/txtTerms2"
+                            android:layout_gravity="center"
+                            android:textColor="@color/colorPrimary"
+                            android:text="@string/txtCredits"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+                <Button
+                    android:text="@string/login"
+                    android:layout_marginTop="@dimen/_20sdp"
+                    android:layout_marginLeft="@dimen/_20sdp"
+                    android:layout_marginRight="@dimen/_20sdp"
+                    android:layout_below="@+id/llTerms"
+                    android:id="@+id/txtSignin"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:background="@color/colorPrimary"
+                    android:textSize="@dimen/_13sdp"
+                    android:textAllCaps="true"
+                    android:textColor="@color/colorWhite"
+                    android:padding="@dimen/_8sdp"
+                    android:textColorHint="@color/colorBlack"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </RelativeLayout>
+        </ScrollView>
+
+    </RelativeLayout>
+</layout>

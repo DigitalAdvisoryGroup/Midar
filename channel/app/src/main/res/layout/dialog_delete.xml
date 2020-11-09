@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:orientation="vertical" >
+
+
+        <TextView
+            android:id="@+id/txtfollowUsername"
+            android:layout_width="wrap_content"
+            android:text="@string/are_you_sure"
+            android:minLines="2"
+            android:textColor="@color/colorBlack"
+            android:textSize="@dimen/_15sdp"
+            android:layout_marginLeft="@dimen/_20sdp"
+            android:layout_marginRight="@dimen/_20sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_height="wrap_content"/>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_marginStart="@dimen/_40sdp"
+            android:layout_marginEnd="@dimen/_40sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_marginBottom="@dimen/_10sdp"
+            android:layout_width="match_parent"
+            android:weightSum="2"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/btncancel"
+                android:text="@string/cancel"
+                android:layout_weight="1"
+                android:textAllCaps="false"
+                android:backgroundTint="@color/colorRed"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/_40sdp"/>
+
+            <Button
+                android:id="@+id/btnDelete"
+                android:text="Delete"
+                android:layout_weight="1"
+                android:backgroundTint="@color/colorGreen"
+                android:textAllCaps="false"
+                android:layout_marginLeft="@dimen/_10sdp"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/_40sdp"/>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

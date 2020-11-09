@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "661939533895",
+    "firebase_url": "https://galvanized-opus-243008.firebaseio.com",
+    "project_id": "galvanized-opus-243008",
+    "storage_bucket": "galvanized-opus-243008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661939533895:android:6ac6ba1c6043a116fa1962",
+        "android_client_info": {
+          "package_name": "com.channel.bit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661939533895-6r6di7kts30000qu722o390skk9pu07j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkF8e3lBsn8ZsbLyf6NqIAdAZY-nVrmgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661939533895-6r6di7kts30000qu722o390skk9pu07j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
