@@ -1,0 +1,6 @@
+/* Bundle name */
+"CFBundleName" = "Midar";
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Camera use";
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "Photo use";

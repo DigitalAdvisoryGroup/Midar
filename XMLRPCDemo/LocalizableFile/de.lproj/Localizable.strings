@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  XMLRPCDemo
+
+  Created by Kuldip Mac on 06/10/20.
+  Copyright © 2020 Nyusoft. All rights reserved.
+*/
+"Die Transformationsinitiative des BIT" = "Die \n Transformationsinitiative  des BIT";
+"Accept Terms" = "Bestimmungen akzeptieren";
+"Please Enter Email" =  "Bitte geben Sie Ihre Email-Adresse ein";
+"Please Enter Valid Email" = "Unbekannte Email-Adresse";
+"Please indicate that you have read and agree to the Terms and Conditions and Privacy Policy" = "Bitte bestätigen Sie, dass Sie die Midar-Netiquette gelesen haben und damit einverstanden sind";
+
+"VERIFY" = "Prüfung";
+"RESEND" = "Neu senden";
+"Verify otp" = "Prüfung Einmal-Passwort";
+"OTP is sent to Your Email address.." = "OTP wird an Ihre E-Mail-Adresse gesendet.";
+"Please Enter OTP" = "Bitte geben Sie OTP ein";
+"Please Enter valid OTP" = "Bitte geben Sie ein gültiges OTP ein";
+"Published by " = "Veröffentlicht druch ";
+"Post" = "Beitrag";
+"Leave your thoughts here.." = "Was halten Sie davon?";
+"Average Rating" = "Durchschnittliche Bewertung";
+"My Rating" = "Meine Bewertung";
+"How was your experience?" = "Bemerkungen zu Ihrer Bewertung";
+"Submit" = "Senden";
+"Disconnect from Midar" = "Verbindung trennen";
+"Change Connection" = "Verbindung wechseln";
+"Comments" =  "Kommentare";

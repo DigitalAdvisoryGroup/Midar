@@ -1,0 +1,6 @@
+framework module Pods_Midar_MidarUITests {
+  umbrella header "Pods-Midar-MidarUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

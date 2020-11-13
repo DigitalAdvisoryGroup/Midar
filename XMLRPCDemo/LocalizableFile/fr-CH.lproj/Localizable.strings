@@ -1,0 +1,81 @@
+/* 
+  Localizable.strings
+  XMLRPCDemo
+
+  Created by Kuldip Mac on 06/10/20.
+  Copyright © 2020 Nyusoft. All rights reserved.
+*/
+"Die Transformationsinitiative des BIT" = "L'initiative de transformation \n de l'OFIT";
+"Please Enter Email" = "Merci d'indiquer ton adresse électronique";
+"Please Enter Valid Email" = "Adresse électronique inconnue";
+"Accept Terms" = "Accepter les conditions";
+"Please indicate that you have read and agree to the Terms and Conditions and Privacy Policy" = "Merci de confirmer que tu as lu les conditions d'utilisation et que tu les acceptes";
+"VERIFY" = "Vérification";
+"RESEND" = "Envoyer à nouveau";
+"Email with your password was sent to your mailbox" = "Un e-mail avec ton mot de passe a été envoyé dans ta boîte aux lettres";
+
+"Enter Your Email" = "Merci d'indiquer ton adresse électronique";
+"Verify otp" = "Vérification du mot de passe à utilisation unique";
+"OTP is sent to Your Email address.." = "OTP is sent to Your Email address..";
+"Please Enter OTP" = "Please Enter OTP";
+"Please Enter valid OTP" = "Please Enter valid OTP";
+"Published by " = "Publié par ";
+"Post" = "Contribution";
+"Leave your thoughts here.." = "Qu'en penses-tu?";
+"Average Rating" = "Évaluation moyenne";
+"My Rating" = "Mon évaluation";
+"How was your experience?" = "Remarques concernant ton évaluation";
+"Submit" = "Envoyer";
+"Disconnect from Midar" = "Se déconnecter";
+"Change Connection" = "Changer de connexion";
+"Comments" =  "Commentaires";
+"comments" = "Commentaires";
+"Login" = "Connexion";
+
+"Campaign" = "Campagne";
+"Responsible" = "Responsable";
+"Posts" = "Postes";
+"Mailings" = "Mailings";
+"Ratings" = "Évaluations";
+
+"Sharings" = "Partager";
+
+"Profile" = "Profil";
+"Select Language" = "Choisir la langue";
+"Cancel" = "Annuler";
+
+"Are you sure you want to log out?" = "Sûr de vouloir te déconnecter?";
+"Yes" = "Oui";
+"No" = "Non";
+//Réponses au commentaire
+"Replies to " = "Réponses au commentaire de ";
+" comment on this post" =" sur ce message";
+"years ago" = "ans il ya";
+"month ago" = "mois Il ya";
+"week ago" = "semaines Il ya";
+"day ago" = "jours il ya";
+"hour ago" = "heures Il ya";
+"min ago" = "min Il ya";
+"now ago" = "maintenant";
+
+
+"Technical support" = "Technische Hilfe";
+"Legal" = "Légal";
+"Data protection statement & Conditions of Use" = "Déclaration de protection des données et conditions d'utilisation";
+
+"Published byImpre" = "Publié par";
+"Online help" = "Aide en ligne";
+"Developed by" = "Développé par";
+"Source code" = "Code source";
+"This app is licensed subject to the condition of the MPL 2 license" = "Cette application est autorisée sous réserve de la condition de la licence MPL 2";
+"post" = "Envoyer";
+"www.midar.swiss/help" = "www.midar.swiss/help";
+"www.midar.swiss/helpButton" = "https://www.midar.swiss/fr_CH/help";
+
+
+//"En te connectant, tu confirmes accepter les conditions d'utilisation relatives à l'exploitation et à la proctection de la sphère privée"
+"By Logging in, you agree"= "En te connectant, tu confirmes accepter";
+"I agree to the"= "Je confirme d’accepter les conditions";
+"Midar Terms of Service"= "d'utilisation relatives à l'exploitation et à la";
+"and Privacy Policy"= "proctection de la sphère privée";
+"Terms of Service and Privacy Policy" = "d'utilisation relatives à l'exploitation et à la proctection de la sphère privée";

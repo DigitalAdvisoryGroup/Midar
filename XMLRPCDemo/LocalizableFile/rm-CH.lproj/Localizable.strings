@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  XMLRPCDemo
+
+  Created by Kuldip Mac on 06/10/20.
+  Copyright © 2020 Nyusoft. All rights reserved.
+*/
+"Die Transformationsinitiative des BIT" = "Die \n Transformationsinitiative  des BIT";
+"Please Enter Email" = "Please Enter Email";
+"Please Enter Valid Email" = "Please Enter Valid Email";
+"Accept Terms" = "Accept Terms";
+"Please indicate that you have read and agree to the Terms and Conditions and Privacy Policy" = "Please indicate that you have read and agree to the Terms and Conditions and Privacy Policy";
+"VERIFY" = "VERIFY";
+"RESEND" = "RESEND";
+"Verify otp" = "Verify otp";
+"OTP is sent to Your Email address.." = "OTP is sent to Your Email address..";
+"Please Enter OTP" = "Please Enter OTP";
+"Please Enter valid OTP" = "Please Enter valid OTP";
+"Published by " = "Published by ";
+"Post" = "Post";
+"Leave your thoughts here.." = "Leave your thoughts here..";
+"Average Rating" = "Average Rating";
+"My Rating" = "My Rating";
+"How was your experience?" = "How was your experience?";
+"Submit" = "Submit";
+"Disconnect from Midar" = "Disconnect from Midar";
+"Change Connection" = "Change Connection";
+"Comments" =  "Comments";
+
+"Campaign" = "Campaign";
+"Responsible" = "Responsible";
+"Posts" = "Posts";
+"Mailings" = "Mailings";
+"Ratings" = "Ratings";
+"comments" = "comments";
+"Sharings" = "Sharings";
+
+"Profile" = "Profile";
+"Select Language" = "Select Language";
+"Cancel" = "Cancel";
+
+"Are you sure you want to log out?" = "Are you sure you want to log out?";
+"Yes" = "Yes";
+"No" = "No";
+"years ago" = "years ago";
+
+"month ago" = "month ago";
+"week ago" = "week ago";
+"day ago" = "day ago";
+"hour ago" = "hour ago";
+"min ago" = "min ago";
+"now ago" = "now ago";
+
+
+"Technical support" = "Technische Hilfe";
+"Developed by" = "Umsetzung";
+"Source code" = "Quellcode";
+"This app is licensed subject to the condition of the MPL 2 license" = "Diese App ist unter den Bedingungen von MPL 2 lizenziert";
+"post" = "Senden";
+
+"By Logging in, you agree"= "By Logging in, you agree";
+"I agree to the"= "the to the";
+"Midar Terms of Service"= "Midar Terms of Service";
+"and Privacy Policy"= "and Privacy Policy";
+"Terms of Service and Privacy Policy" = "Terms of Service and Privacy Policy";

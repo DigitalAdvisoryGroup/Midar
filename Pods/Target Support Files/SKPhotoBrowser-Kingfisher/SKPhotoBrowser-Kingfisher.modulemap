@@ -1,0 +1,6 @@
+framework module SKPhotoBrowser_Kingfisher {
+  umbrella header "SKPhotoBrowser-Kingfisher-umbrella.h"
+
+  export *
+  module * { export * }
+}

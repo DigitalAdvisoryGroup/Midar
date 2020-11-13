@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Accept Terms"; ObjectID = "0ZJ-1k-Xek"; */
+"0ZJ-1k-Xek.text" = "Bestimmungen akzeptieren";
+
+/* Class = "UILabel"; text = "Verify otp"; ObjectID = "Av2-ED-1ee"; */
+"Av2-ED-1ee.text" = "Prüfung Einmal-Passwort";
+
+/* Class = "UITextField"; placeholder = "Enter your Email"; ObjectID = "BHT-NP-yos"; */
+"BHT-NP-yos.placeholder" = "Bitte geben Sie Ihre Email-Adresse ein";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "CKc-ST-Ocn"; */
+"CKc-ST-Ocn.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "EBN-gd-LVj"; */
+"EBN-gd-LVj.normalTitle" = "Login";
+
+/* Class = "UIButton"; normalTitle = "VERIFY"; ObjectID = "FNr-NJ-OJk"; */
+"FNr-NJ-OJk.normalTitle" = "Prüfung";
+
+/* Class = "UILabel"; text = "the to the"; ObjectID = "KpZ-ix-OX5"; */
+"KpZ-ix-OX5.text" = "the to the";
+
+/* Class = "UIButton"; normalTitle = "RESEND"; ObjectID = "O1o-8m-TCe"; */
+"O1o-8m-TCe.normalTitle" = "Neu senden";
+
+/* Class = "UILabel"; text = "By Logging in, you agree"; ObjectID = "VJ9-6v-ohV"; */
+"VJ9-6v-ohV.text" = "By Logging in, you agree";
+
+/* Class = "UILabel"; text = "E-Mail with your password was sent to your mailbox\n"; ObjectID = "gUZ-za-J2W"; */
+"gUZ-za-J2W.text" = "E-Mail with your password was sent to your mailbox\n";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hjT-5u-BKa"; */
+"hjT-5u-BKa.text" = "Label";

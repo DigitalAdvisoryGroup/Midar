@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="RichNotification/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3" build-num="11C29"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>RichNotification</source>
+        <target>RichNotification</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>RichNotification</source>
+        <target>RichNotification</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="XMLRPCDemo/Base.lproj/Main.storyboard" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3" build-num="11C29"/>
+    </header>
+    <body>
+      <trans-unit id="0ZJ-1k-Xek.text" xml:space="preserve">
+        <source>Accept Terms</source>
+        <target>Accept Terms</target>
+        <note>Class = "UILabel"; text = "Accept Terms"; ObjectID = "0ZJ-1k-Xek";</note>
+      </trans-unit>
+      <trans-unit id="Av2-ED-1ee.text" xml:space="preserve">
+        <source>Verify otp</source>
+        <target>Verify otp</target>
+        <note>Class = "UILabel"; text = "Verify otp"; ObjectID = "Av2-ED-1ee";</note>
+      </trans-unit>
+      <trans-unit id="BHT-NP-yos.placeholder" xml:space="preserve">
+        <source>Enter your Email</source>
+        <target>Enter your Email</target>
+        <note>Class = "UITextField"; placeholder = "Enter your Email"; ObjectID = "BHT-NP-yos";</note>
+      </trans-unit>
+      <trans-unit id="CKc-ST-Ocn.title" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "CKc-ST-Ocn";</note>
+      </trans-unit>
+      <trans-unit id="EBN-gd-LVj.normalTitle" xml:space="preserve">
+        <source>Login</source>
+        <target>Login</target>
+        <note>Class = "UIButton"; normalTitle = "Login"; ObjectID = "EBN-gd-LVj";</note>
+      </trans-unit>
+      <trans-unit id="FNr-NJ-OJk.normalTitle" xml:space="preserve">
+        <source>VERIFY</source>
+        <target>VERIFY</target>
+        <note>Class = "UIButton"; normalTitle = "VERIFY"; ObjectID = "FNr-NJ-OJk";</note>
+      </trans-unit>
+      <trans-unit id="KpZ-ix-OX5.text" xml:space="preserve">
+        <source>the to the</source>
+        <target>the to the</target>
+        <note>Class = "UILabel"; text = "the to the"; ObjectID = "KpZ-ix-OX5";</note>
+      </trans-unit>
+      <trans-unit id="O1o-8m-TCe.normalTitle" xml:space="preserve">
+        <source>RESEND</source>
+        <target>RESEND</target>
+        <note>Class = "UIButton"; normalTitle = "RESEND"; ObjectID = "O1o-8m-TCe";</note>
+      </trans-unit>
+      <trans-unit id="VJ9-6v-ohV.text" xml:space="preserve">
+        <source>By Logging in, you agree</source>
+        <target>By Logging in, you agree</target>
+        <note>Class = "UILabel"; text = "By Logging in, you agree"; ObjectID = "VJ9-6v-ohV";</note>
+      </trans-unit>
+      <trans-unit id="gUZ-za-J2W.text" xml:space="preserve">
+        <source>E-Mail with your password was sent to your mailbox
+</source>
+        <target>E-Mail with your password was sent to your mailbox
+</target>
+        <note>Class = "UILabel"; text = "E-Mail with your password was sent to your mailbox\n"; ObjectID = "gUZ-za-J2W";</note>
+      </trans-unit>
+      <trans-unit id="hjT-5u-BKa.text" xml:space="preserve">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "hjT-5u-BKa";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="XMLRPCDemo/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3" build-num="11C29"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Midar</source>
+        <target>Midar</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+        <source>Camera use</source>
+        <target>Camera use</target>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
+        <source>Photo use</source>
+        <target>Photo use</target>
+        <note>Privacy - Photo Library Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
